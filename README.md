@@ -4,7 +4,7 @@ A browser-based tribute to SEGA's 1990 roguelike **Fatal Labyrinth**. Descend 30
 
 Built as a single HTML file using Copilot Cowork (code) and ChatGPT (sprites + music).
 
-![Fatal Labyrinth](screenshot.png)
+![Fatal Labyrinth](screenshot1.png)
 
 ---
 
@@ -13,8 +13,9 @@ Built as a single HTML file using Copilot Cowork (code) and ChatGPT (sprites + m
 No build step, no dependencies. Just open the file in a browser.
 
 1. Download or clone this repo.
-2. Open `fatal-labyrinth.html` in any modern browser (Chrome, Firefox, Edge, Safari).
-3. Pick a difficulty and play.
+2. If file is zipped, unzip it.
+3. Open `fatal-labyrinth.html` in any modern browser (Chrome, Firefox, Edge, Safari).
+4. Pick a difficulty and play.
 
 > **Note:** Browsers may block local audio autoplay. Music starts after you click a difficulty button.
 
